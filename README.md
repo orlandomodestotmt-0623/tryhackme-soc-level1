@@ -1,1 +1,2 @@
-# tryhackme-soc-level1
+Hi, I'm Orlando!
+I'm a cybersecurity specialist.
